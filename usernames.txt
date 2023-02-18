@@ -110,6 +110,7 @@ toor
 ubnt
 ubuntu
 user
+usuario
 uzirolog
 vodaphone
 vstarcam2015
