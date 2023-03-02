@@ -28,6 +28,7 @@ admin1
 administrator
 Administrator
 adminlvjh
+adminpldt
 adminttd
 adsl
 Alphanetworks
@@ -108,6 +109,8 @@ telecomadmin:nE
 telnet
 telnetadmin
 TMAR#DLKT20060205
+TMAR#DLKT20090202
+TMARDLKT93319
 toor
 ubnt
 ubuntu
