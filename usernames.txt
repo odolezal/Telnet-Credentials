@@ -71,6 +71,7 @@ GET / HTTP/1.1
 GET http://91.199.118.155/2.php HTTP/1.1
 gueest
 guest
+hadoop
 hikvision
 HPSupport
 !!Huawei
@@ -81,6 +82,7 @@ kyivstar
 lp
 mg3500
 mother
+nagios
 nasadmin
 NetLinx
 ONTUSER
@@ -96,6 +98,7 @@ server
 service
 SNNU
 SNNU!
+spectrum
 suma123
 super
 superadmin
@@ -111,6 +114,9 @@ telnetadmin
 TMAR#DLKT20060205
 TMAR#DLKT20090202
 TMARDLKT93319
+TMAR#HWMT8007079
+TMAR#SSPE240006A03
+TMAR#ZTV5.5.0a
 toor
 ubnt
 ubuntu
