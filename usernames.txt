@@ -1,4 +1,5 @@
 #%
+&;; 
 "??$
 #%  ?"$
 $5<>5$14=9>
@@ -65,6 +66,7 @@ EDG@TMU
 @ELHO
 @ELHO!
 enable
+entel
 eponroot
 Epuser
 F
@@ -74,6 +76,7 @@ ftp
 ftpuser
 fuck3g1
 g
+gdcuadmin
 GE
 GET / HTTP/1.1
 GET http://91.199.118.155/2.php HTTP/1.1
@@ -88,7 +91,9 @@ HPSupport
 IntraSwitch
 jack
 jnior
+keomeo
 kyivstar
+linuxshell
 lp
 Manager
 mg3500
@@ -96,6 +101,7 @@ mother
 nagios
 nasadmin
 NetLinx
+netscreen
 nmgcuadmin
 ONTUSER
 oracle
@@ -104,6 +110,7 @@ pi
 postgres
 public
 R
+randyyskidofed
 report
 root
 rootmet
@@ -112,6 +119,7 @@ s
 server
 service
 shell
+smcadmin
 SNNU
 SNNU!
 spectrum
